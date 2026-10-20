@@ -1,5 +1,5 @@
 def crear_separador():
-    return "-" * 500
+    return "-" * 800
 
 def formatear_publi(publicacion):
     descripcion = publicacion["descripcion_publicacion"]
